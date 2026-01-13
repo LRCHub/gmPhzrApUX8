@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Time passing Bell / ベルの時計は壊れない",
+  "base_artist": "arai tasuku",
+  "createdAt": "2026-01-13T14:47:09.399369Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Time passing Bell ベルの時計は壊れない (feat. 五阿弥ルナ) [2021 Remastered]",
+      "artist": "arai tasuku",
+      "has_synced": false,
+      "path": "select/pl_01_Time_passing_Bell_ベルの時計は壊れない_(feat._五阿弥ルナ)_[2021_Remastered]_arai_tasuku.txt"
+    }
+  ]
+}
